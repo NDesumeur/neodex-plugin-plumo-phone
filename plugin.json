@@ -1,0 +1,26 @@
+{
+  "id": "neodex.plumo",
+  "name": "Plumo",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Jeu d'adresse à une touche : un petit oiseau retombe sans cesse, chaque toucher de l'écran le fait remonter d'un battement d'ailes pour passer entre les colonnes. Les ouvertures se resserrent et la vitesse monte, le ciel passe du jour au soir, à la nuit puis à l'aube tous les 25 points. Médailles de bronze à 10 points jusqu'au platine à 100. Quatre oiseaux à débloquer avec les médailles, colonnes qui bougent et rafales de vent après 50 points, plein écran et zone de jeu à la taille de l'écran. Quatre mondes (prairie, forêt, ville, neige), un vol différent par oiseau, une médaille à chaque palier.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "plumo",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Jeux",
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "aucune",
+  "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil.",
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ],
+  "gamepad": true
+}
