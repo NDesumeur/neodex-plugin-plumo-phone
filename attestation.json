@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.plumo",
+  "repo": "NDesumeur/neodex-plugin-plumo-phone",
+  "version": "1.0.0",
+  "sha256": "883bf2ca5f6cbaa503cf45fe0b17311f91dd1e51b5cd106f0cc9c9ae4c20e20c",
+  "approvedAt": "2026-11-24T15:56:21.690Z",
+  "neobase": ">=4.0.0",
+  "signature": "8jzvfMSAyuHfhYkc1nkcGRK3Y0XiBGhTusb+7q8xaaAKR2LKrUj8heLTDsFoQy5ipepTAnZIMuCFcmlB3BziDg=="
+}
